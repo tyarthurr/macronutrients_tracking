@@ -1,3 +1,5 @@
+# UPDATE (28/03/24)
+TBC.
 # Description
 Python script that tracks and manages macronutrients (specifically, protein and kilojoules) each day under user-specified macronutrient count goals. 
 
