@@ -3,7 +3,7 @@ protein_count = 0
 kilojoule_count = 0
 protein_goal = 0
 kilojoule_goal = 0
-macro_goal = ["bulking", "maintaining", "cutting"]
+macro_goal = ("bulking", "maintaining", "cutting")
 
 
 # Defining while loop function: If a condition is met and the other isn't, drop the met condition from being prompted
